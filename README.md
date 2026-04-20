@@ -6,17 +6,10 @@
 
 ---
 
-## 📌 Projects
-
-Projects will be added soon  
-
----
-
 ## 👋 About me
 
 - Working in web development and maintenance  
 - Improving frontend skills and best practices  
-- Focused on growing as a developer  
 
 ---
 
@@ -33,6 +26,4 @@ Projects will be added soon
 
 ---
 
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/erick-g-c/erick-g-c/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/erick-g-c/erick-g-c/blob/output/github-contribution-grid-snake-dark.svg)
