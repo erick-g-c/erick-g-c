@@ -22,4 +22,6 @@
 
 ---
 
-![Snake animation](https://github.com/erick-g-c/erick-g-c/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/erick-g-c/erick-g-c/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
