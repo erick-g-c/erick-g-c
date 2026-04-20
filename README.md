@@ -2,41 +2,37 @@
 
 💻 Frontend Developer Jr  
 🏢 Web Development Assistant  
-⚡ Working with JavaScript, TypeScript, CSS and HTML  
-
----
-
-## 🧰 Tech Stack
-
-- JavaScript  
-- TypeScript  
-- CSS  
-- HTML  
+⚡ JavaScript, TypeScript, CSS, HTML  
 
 ---
 
 ## 📌 Projects
 
-- 🔹 Projects will be added soon  
-- 🔹 Focused on frontend development and best practices  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erick-g-c&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-g-c&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=erick-g-c&theme=github-dark)
+Projects will be added soon  
 
 ---
 
 ## 👋 About me
 
-- 🔭 Currently working as a Web Development Assistant  
-- 🌱 Learning and improving my skills in JavaScript, TypeScript and frontend best practices  
-- 💬 Ask me about HTML, CSS and basic web development  
-- 📫 Reach me through GitHub  
+- Working in web development and maintenance  
+- Improving frontend skills and best practices  
+- Focused on growing as a developer  
 
-- ⚡ Interested in growing as a frontend developer
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erick-g-c&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-g-c&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=erick-g-c&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/erick-g-c/erick-g-c/blob/output/github-contribution-grid-snake.svg)
