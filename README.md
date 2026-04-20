@@ -24,7 +24,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erick-g-c&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erick-g-c&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-g-c&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=erick-g-c&theme=github-dark)
 
 ---
 
