@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Erick
 
-<!--
-**erick-g-c/erick-g-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer Jr  
+🏢 Web Development Assistant  
+⚡ Working with JavaScript, TypeScript, CSS and HTML  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+- JavaScript  
+- TypeScript  
+- CSS  
+- HTML  
+
+---
+
+## 📌 Projects
+
+- 🔹 Projects will be added soon  
+- 🔹 Focused on frontend development and best practices  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erick-g-c&show_icons=true)
+
+---
+
+## 👋 About me
+
+- 🔭 Currently working as a Web Development Assistant  
+- 🌱 Learning and improving my skills in JavaScript, TypeScript and frontend best practices  
+- 💬 Ask me about HTML, CSS and basic web development  
+- 📫 Reach me through GitHub  
+
+- ⚡ Interested in growing as a frontend developer
