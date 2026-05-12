@@ -16,8 +16,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erick-g-c&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-g-c&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=erick-g-c&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erick-g-c&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
