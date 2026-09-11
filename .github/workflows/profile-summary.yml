@@ -12,19 +12,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate GitHub profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user: erick-g-c
-          theme: github_dark
-          # Tarjetas disponibles: puedes agregar o quitar líneas aquí
-          card: |
-            grid
-            gist
-
-      - name: Push cards to profile-summary-card branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: profile-summary-card
-          folder: profile-summary-card
+          USERNAME: erick-g-c
+          THEME: github_dark
