@@ -1,0 +1,30 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user: erick-g-c
+          theme: github_dark
+          # Tarjetas disponibles: puedes agregar o quitar líneas aquí
+          card: |
+            grid
+            gist
+
+      - name: Push cards to profile-summary-card branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: profile-summary-card
+          folder: profile-summary-card
