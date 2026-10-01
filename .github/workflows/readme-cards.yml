@@ -18,7 +18,9 @@ concurrency:
 env:
   # Opcional: crea el secreto PROFILE_TOKEN (PAT) para incluir también actividad privada
   TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
-  STYLE: theme=radical&hide_border=true&locale=es
+  # Paleta "Samurai + Netrunner": fondo casi negro, verde neón, rojo, cian y violeta
+  STYLE: bg_color=0b0b12&title_color=00ff9f&icon_color=ff003c&text_color=00f0ff&ring_color=bd00ff&hide_border=true&locale=es
+  STREAK_STYLE: background=0b0b12&ring=bd00ff&fire=ff003c&currStreakNum=00ff9f&sideNums=00ff9f&currStreakLabel=ff003c&sideLabels=00f0ff&dates=00f0ff&stroke=bd00ff&hide_border=true&locale=es
 
 jobs:
   build:
@@ -45,7 +47,7 @@ jobs:
       - name: Generate streak card
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=${{ github.repository_owner }}&timezone=America/Mexico_City&${{ env.STYLE }}
+          options: user=${{ github.repository_owner }}&timezone=America/Mexico_City&${{ env.STREAK_STYLE }}
           path: profile/streak.svg
           token: ${{ env.TOKEN }}
 
