@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -19,19 +21,26 @@
 - 💻 Trabajo en desarrollo y mantenimiento web
 - 📚 Mejorando constantemente mis habilidades de frontend y buenas prácticas
 - 🌱 Actualmente explorando nuevas herramientas y frameworks
-- 💬 Pregúntame sobre JavaScript, TypeScript, HTML/CSS
+- 💬 Pregúntame sobre JavaScript, TypeScript, HTML/CSS y Astro
+- 📍 Ciudad de México
 
 ---
 
 ### 📊 GitHub Stats
 
+<!-- Tarjetas generadas por .github/workflows/profile-summary.yml y guardadas en este repo (no dependen de servicios externos) -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=erick-g-c&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erick-g-c&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Perfil y contribuciones" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erick-g-c&theme=radical&hide_border=true" height="165"/>
+  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estadísticas" width="49%"/>
+  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horario más productivo" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Lenguajes por repositorio" width="49%"/>
+  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Lenguajes por commits" width="49%"/>
 </p>
 
 ---
@@ -39,7 +48,10 @@
 ### 🐍 Actividad reciente
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erick-g-c/erick-g-c/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/output/github-contribution-grid-snake.svg" alt="Snake comiendo mi gráfica de contribuciones" />
+  </picture>
 </p>
 
 ---
@@ -48,8 +60,9 @@
 
 <p align="center">
   <!-- Reemplaza los # con tus enlaces reales -->
+  <a href="https://github.com/erick-g-c"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
