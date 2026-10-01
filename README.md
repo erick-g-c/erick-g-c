@@ -28,19 +28,14 @@
 
 ### 📊 GitHub Stats
 
-<!-- Tarjetas generadas por .github/workflows/profile-summary.yml y guardadas en este repo (no dependen de servicios externos) -->
+<!-- Tarjetas generadas por .github/workflows/readme-cards.yml y guardadas en este repo (no dependen de servicios externos) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Perfil y contribuciones" width="100%"/>
+  <img src="./profile/stats.svg" alt="Estadísticas de GitHub" height="165"/>
+  <img src="./profile/top-langs.svg" alt="Lenguajes más usados" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estadísticas" width="49%"/>
-  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horario más productivo" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Lenguajes por repositorio" width="49%"/>
-  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Lenguajes por commits" width="49%"/>
+  <img src="./profile/streak.svg" alt="Racha de contribuciones" height="165"/>
 </p>
 
 ---
