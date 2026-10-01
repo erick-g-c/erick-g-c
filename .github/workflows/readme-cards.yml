@@ -18,7 +18,7 @@ concurrency:
 env:
   # Opcional: crea el secreto PROFILE_TOKEN (PAT) para incluir también actividad privada
   TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
-  STYLE: theme=tokyonight&hide_border=true&locale=es
+  STYLE: theme=radical&hide_border=true&locale=es
 
 jobs:
   build:
