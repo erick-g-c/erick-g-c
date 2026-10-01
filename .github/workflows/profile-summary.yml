@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-summary
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,7 +21,10 @@ jobs:
       - name: Generate GitHub profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Opcional: crea el secreto PROFILE_TOKEN (PAT) para incluir también actividad privada
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: erick-g-c
+          USERNAME: ${{ github.repository_owner }}
           THEME: github_dark
+          # Hora de Ciudad de México para la gráfica de horario productivo
+          UTC_OFFSET: -6
