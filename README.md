@@ -12,6 +12,11 @@
   <img src="./assets/terminal.svg" alt="Terminal: soy Erick García, Frontend Developer Jr en Ciudad de México. Stack: JavaScript, TypeScript, Astro, HTML, CSS y Git." width="100%" />
 </p>
 
+<!-- GIF oficial de Cyberpunk: Edgerunners en GIPHY -->
+<p align="center">
+  <img src="https://media.giphy.com/media/AoiPYyV8TWL3T35HH1/giphy.gif" alt="Lucy (Cyberpunk: Edgerunners) hackeando" width="480" />
+</p>
+
 ```txt
 ▸ Desarrollo y mantenimiento web
 ▸ Mejorando constantemente en frontend y buenas prácticas
@@ -57,20 +62,8 @@
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-### `// 05 — CONECTA`
-
-<p align="center">
-  <!-- Reemplaza los # con tus enlaces reales -->
-  <a href="https://github.com/erick-g-c"><img src="https://img.shields.io/badge/GitHub-0b0b12?style=for-the-badge&logo=github&logoColor=00ff9f" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0b0b12?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/X-0b0b12?style=for-the-badge&logo=x&logoColor=bd00ff" alt="X" /></a>
-  <a href="mailto:#"><img src="https://img.shields.io/badge/Email-0b0b12?style=for-the-badge&logo=gmail&logoColor=ff003c" alt="Email" /></a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erick-g-c&label=VISITAS&style=for-the-badge&color=bd00ff" alt="Visitas al perfil" />
 </p>
-
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center"><sub><code>&gt; conexión establecida desde Night City · CDMX_</code></sub></p>
