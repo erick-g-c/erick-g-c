@@ -12,11 +12,6 @@
   <img src="./assets/terminal.svg" alt="Terminal: soy Erick García, Frontend Developer Jr en Ciudad de México. Stack: JavaScript, TypeScript, Astro, HTML, CSS y Git." width="100%" />
 </p>
 
-<!-- GIF oficial de Cyberpunk: Edgerunners en GIPHY -->
-<p align="center">
-  <img src="https://media.giphy.com/media/AoiPYyV8TWL3T35HH1/giphy.gif" alt="Lucy (Cyberpunk: Edgerunners) hackeando" width="480" />
-</p>
-
 ```txt
 ▸ Desarrollo y mantenimiento web
 ▸ Mejorando constantemente en frontend y buenas prácticas
