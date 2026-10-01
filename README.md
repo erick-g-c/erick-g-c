@@ -1,32 +1,40 @@
-<h1 align="center">Hola, soy Erick 👋</h1>
-
 <p align="center">
-  <b>Frontend Developer Jr</b> · Web Development Assistant<br/>
-  Construyendo interfaces limpias y aprendiendo algo nuevo cada día
+  <a href="https://github.com/erick-g-c">
+    <img src="./assets/header.svg" alt="Erick García — Frontend Developer" width="100%" />
+  </a>
 </p>
 
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+
+### `// 01 — SOBRE_MÍ`
+
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="./assets/terminal.svg" alt="Terminal: soy Erick García, Frontend Developer Jr en Ciudad de México. Stack: JavaScript, TypeScript, Astro, HTML, CSS y Git." width="100%" />
 </p>
 
----
+```txt
+▸ Desarrollo y mantenimiento web
+▸ Mejorando constantemente en frontend y buenas prácticas
+▸ Explorando nuevas herramientas y frameworks
+▸ Pregúntame sobre JavaScript, TypeScript, HTML/CSS y Astro
+```
 
-### 👋 Sobre mí
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-- 💻 Trabajo en desarrollo y mantenimiento web
-- 📚 Mejorando constantemente mis habilidades de frontend y buenas prácticas
-- 🌱 Actualmente explorando nuevas herramientas y frameworks
-- 💬 Pregúntame sobre JavaScript, TypeScript, HTML/CSS y Astro
-- 📍 Ciudad de México
+### `// 02 — STACK`
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0b0b12?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0b0b12?style=for-the-badge&logo=typescript&logoColor=00f0ff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Astro-0b0b12?style=for-the-badge&logo=astro&logoColor=ff003c" alt="Astro" />
+  <img src="https://img.shields.io/badge/HTML5-0b0b12?style=for-the-badge&logo=html5&logoColor=ff5a03" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0b0b12?style=for-the-badge&logo=css&logoColor=bd00ff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-0b0b12?style=for-the-badge&logo=git&logoColor=00ff9f" alt="Git" />
+</p>
 
-### 📊 GitHub Stats
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+
+### `// 03 — STATS`
 
 <!-- Tarjetas generadas por .github/workflows/readme-cards.yml y guardadas en este repo (no dependen de servicios externos) -->
 <p align="center">
@@ -38,29 +46,19 @@
   <img src="./profile/streak.svg" alt="Racha de contribuciones" height="165"/>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-### 🐍 Actividad reciente
+### `// 04 — ACTIVIDAD`
 
+<!-- GIF generado por .github/workflows/snake.yml en la rama output -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erick-g-c/erick-g-c/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/output/github-contribution-grid-snake.svg" alt="Snake comiendo mi gráfica de contribuciones" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/output/snake-cyberpunk.gif" alt="Serpiente neón comiendo mi gráfica de contribuciones" width="100%" />
 </p>
 
----
-
-### 🌐 Conecta conmigo
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center">
-  <!-- Reemplaza los # con tus enlaces reales -->
-  <a href="https://github.com/erick-g-c"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=erick-g-c&label=VISITAS&style=for-the-badge&color=bd00ff" alt="Visitas al perfil" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=erick-g-c&style=flat-square&color=blueviolet" alt="profile views"/>
-</p>
+<p align="center"><sub><code>&gt; conexión establecida desde Night City · CDMX_</code></sub></p>
