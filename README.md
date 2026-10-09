@@ -30,7 +30,7 @@
   <img src="./profile/streak.svg" alt="Racha de contribuciones" height="165"/>
 </p>
 
-<!-- GIF generado por .github/workflows/snake.yml en la rama output -->
+<!-- Animación generada por .github/workflows/snake.yml en la rama output -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/output/snake-cyberpunk.gif" alt="Serpiente neón comiendo mi gráfica de contribuciones" width="100%" />
+  <img src="https://raw.githubusercontent.com/erick-g-c/erick-g-c/output/snake-cyberpunk.svg" alt="Serpiente neón comiendo mi gráfica de contribuciones" width="100%" />
 </p>
