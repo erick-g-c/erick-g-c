@@ -25,7 +25,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/snake-cyberpunk.gif?color_snake=#ff003c&color_dots=#1a1a2e,#3d0066,#7a00cc,#bd00ff,#00ff9f&color_background=#0b0b12
+            dist/snake-cyberpunk.svg?color_snake=#ff003c&color_dots=#1a1a2e,#3d0066,#7a00cc,#bd00ff,#00ff9f
 
       - name: Push snake to output branch
         uses: JamesIves/github-pages-deploy-action@v4
